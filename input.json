@@ -1,0 +1,30 @@
+{
+  "sample_data_only": true,
+  "description": "Fictional sample forecasts for testing without internet. These values are not current weather. Times are generated relative to the program launch.",
+  "cities": [
+    {
+      "name": "Lviv",
+      "country": "Ukraine",
+      "latitude": 49.8397,
+      "longitude": 24.0297,
+      "temperatures": [12.0, 13.5, 14.0, 13.0, 11.5],
+      "precipitation_probabilities": [25, 65, 80, 45, 20]
+    },
+    {
+      "name": "Kyiv",
+      "country": "Ukraine",
+      "latitude": 50.4501,
+      "longitude": 30.5234,
+      "temperatures": [24.0, 26.0, 25.5, 23.0, 21.0],
+      "precipitation_probabilities": [5, 10, 15, 10, 5]
+    },
+    {
+      "name": "Odesa",
+      "country": "Ukraine",
+      "latitude": 46.4825,
+      "longitude": 30.7233,
+      "temperatures": [4.0, 5.0, 6.5, 7.0, 8.0],
+      "precipitation_probabilities": [40, 55, 60, 65, 70]
+    }
+  ]
+}
